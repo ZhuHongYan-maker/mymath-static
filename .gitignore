@@ -1,0 +1,24 @@
+# Visual Studio 缓存与中间文件
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.aps
+*.obj
+*.tlog
+*.log
+*.idb
+
+# 编译产物（保持仓库只有源码；如需提交 exe/dll 给老师，把下面几行注释掉）
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
